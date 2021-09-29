@@ -43,6 +43,7 @@ public class FacebookValidation {
 //		  sa.assertEquals((firstname.getText()), " Rahul ", " No firstname mentioned");
 	//	  sa.assertAll();
 		 System.out.println("Test case passed");
+		 System.out.println("hello");
 		}
 		
 	
